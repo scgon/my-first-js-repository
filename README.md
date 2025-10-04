@@ -1,1 +1,1 @@
-# my-first-repository
+# My First JavaScript Repository
